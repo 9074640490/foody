@@ -5,7 +5,7 @@ const Calculator = props => {
     const [calculateValue, setCalculateValue] = useState(0)
     const [counterValue1, setCounterValue1] = useState(0)
     const [counterValue2, setCounterValue2] = useState(0)
-    const [arthematicValue, setArthematicValue] = useState(0)
+    // const [arthematicValue, setArthematicValue] = useState(0)
 
 
 

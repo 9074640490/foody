@@ -5,7 +5,7 @@ const Counter = () => {
 
     const pleaseIncrement = () => {
         if (counterValue < 10) {
-            setCounterValue(counterValue + 1);
+            // setCounterValue(counterValue + 1);
         }
     };
 
