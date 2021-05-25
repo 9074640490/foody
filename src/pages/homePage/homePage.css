@@ -1,0 +1,36 @@
+.homePage {
+}
+
+.homePage .top-header {
+  background-color: cadetblue;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.homePage .top-header p {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.homePage .first-layer {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.homePage .first-layer .box {
+  margin: 0px 10px;
+}
+
+.homePage .first-layer .box img {
+  height: 200px;
+  width: 300px;
+}
+.homePage .layer-title {
+  font-size: 25px;
+  color: red;
+  font-weight: bold;
+  margin-left: 15px;
+}
